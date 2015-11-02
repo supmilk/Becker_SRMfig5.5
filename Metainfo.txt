@@ -1,0 +1,17 @@
+Name of QuantLet : Becker_SRMfig5.5
+
+Published in : 
+
+Description : 'Plots from the funcitons for evaluating denisities of Archimedean copulae.'
+
+Keywords : 'plot, time-series, evalution, density, visualization'
+
+See also : 
+
+Author : Becker
+
+Submitted :
+
+Datafile : 
+
+Example :
